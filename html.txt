@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tribute to Dr.APJ Abdul Kalam</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffffff;
+            margin: 20px;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background: #f4f4f4;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.3);
+        }
+        img {
+            width: 200px;
+            border-radius: 50%;
+            margin-top: 10px;
+        }
+        h1 {
+            color:red;
+        }
+        p {
+            font-size: 18px;
+        }
+        .quote {
+            font-style:oblique;
+            color: rgb(34,177,76);
+            margin-top: 10px;
+        }
+        ul {
+            text-align: left;
+            display: inline-block;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Tribute to DR.APJ Abdul Kalam</h1>
+        <img src="https://en.m.wikipedia.org/wiki/File%3AA._P._J._Abdul_Kalam.jpg?utm_source=chatgpt.com" alt="Abdul Kalam">
+        <p><strong>(1931 - 2015)</strong></p>
+        <p>The missile man </p>
+        
+        <h2>Achievements:</h2>
+        <ul>
+            <li>Developed the Theory of Relativity</li>
+            <li>Won the Nobel Prize in Physics (1921)</li>
+            <li>Contributed to the development of quantum mechanics</li>
+            <li>Advocated for peace and scientific advancement</li>
+        </ul>
+
+        <p class="quote">"Imagination is more important than knowledge." - Abdul Kalam</p>
+    </div>
+</body>
+</html>
